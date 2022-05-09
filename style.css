@@ -1,0 +1,31 @@
+.data {
+  padding: 50px 100px;
+  /* background-color: lightgray; */
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.title {
+  font-weight: 300;
+}
+table {
+  width: 100%;
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+th {
+  color: #ffffff;
+  background-color: #3378ca;
+}
+th,
+td {
+  padding: 10px;
+  border: 1px solid #efefef;
+  text-align: center;
+}
+.search {
+  width: 99%;
+  height: 25px;
+  font-size: 18px;
+  text-indent: 20px;
+  margin: 10px 0;
+  border: 1px solid lightgray;
+}
